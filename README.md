@@ -1,16 +1,19 @@
-### Hi there 👋
+Olá meu nobre 🤨, 
 
-<!--
-**samuvf/samuvf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Samuel Vieira Fonseca. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 Atualmenta à procura de um estágio;
+- 🌱 No momento aprendendo lógica de programação, abstração, algoritimos, estrutura de dados e ciência da computação em geral;
+- 🤓 Terminando curso de introdução à Ciência da Computação - CS50x(https://cs50.harvard.edu/x/2023/);
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuvf&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuvf&layout=compact&theme=dark)](https://github.com/samuvf/github-readme)
+
+<div>
+  <img height = "30" width = "40 "src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+</div>
