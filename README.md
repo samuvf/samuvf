@@ -1,7 +1,3 @@
-Olá meu nobre 🤨, 
-
-Me chamo Samuel Vieira Fonseca. 
-
 - Cursando Sistemas de Informação;
 - 🔭 Atualmenta à procura de um estágio;
 - 🌱 No momento aprendendo lógica de programação, abstração, algoritimos, estrutura de dados e ciência da computação em geral;
